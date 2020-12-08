@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PC-19</string>
+    <string-array name="spinner">
+        <item>Nasional</item>             <item>DKI Jakarta</item>            <item>Jawa Timur</item>
+        <item>Jawa Tengah</item>          <item>Sulawesi Selatan</item>       <item>Riau</item>
+        <item>Kalimantan Timur</item>     <item>Sumatera Barat</item>         <item>Sumatera Utara</item>
+        <item>Bali</item>                 <item>Banten</item>                 <item>Kalimantan Selatan</item>
+        <item>Papua</item>                <item>Sumatera Selatan</item>       <item>Aceh</item>
+        <item>Sulawesi Utara</item>       <item>DI Yogyakarta</item>          <item>Sulawesi Tenggara</item>
+        <item>Kalimantan Tengah</item>    <item>Kepulauan Riau</item>         <item>Papua Barat</item>
+        <item>Nusa Tenggara Barat</item>  <item>Maluku</item>                 <item>Lampung</item>
+        <item>Gorontalo</item>            <item>Kalimantan Barat</item>       <item>Maluku Utara</item>
+        <item>Jambi</item>                <item>Sulawesi Tengah</item>        <item>Bengkulu</item>
+        <item>Kalimantan Utara</item>     <item>Sulawesi Barat</item>         <item>Nusa Tenggara Timur</item>
+        <item>Kep. Bangka Belitung</item>
+    </string-array>
+</resources>
